@@ -27,7 +27,7 @@ The Titanic dataset, imported from Seaborn, provides comprehensive details about
 | Variable    | Description                                                     | Variable Type      |
 |-------------|-----------------------------------------------------------------|--------------------|
 | `survived`  | 1 - survived, 0 - did not survive                              | Binary variable    |
-| `pclass`    | Passenger class (1 - upper, 2 - middle, 3 - lower)              | Ordinal variable   |
+| `pclass`    | Passenger class (1 - upper, 2 - middle, 3 - lower)              | Discrete variable   |
 | `sex`       | male, female                                                   | Categorical variable |
 | `age`       | Passenger's age                                                 | Continuous variable |
 | `sibsp`     | Number of siblings or spouses aboard                            | Discrete variable  |
