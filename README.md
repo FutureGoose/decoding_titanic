@@ -20,7 +20,27 @@ The goal of this project is to predict whether a passenger on the Titanic would 
 
 ## Data Description
 
-The dataset used in this project is the Titanic dataset from Kaggle. It includes information about the passengers on the Titanic, such as their age, sex, passenger class, fare, and whether they survived or not. For a detailed description of each field in the dataset, please refer to the [Data Dictionary](https://github.com/username/repo/blob/main/Data_Dictionary.md).
+# Dataset Introduction
+
+The Titanic dataset, imported from Seaborn, provides comprehensive details about the passengers who were aboard the ill-fated ship. This data, originally sourced from Kaggle, serves as a rich resource to understand various factors that might have influenced passenger survival. The dataset contains the following variables:
+
+| Variable    | Description                                                     | Variable Type      |
+|-------------|-----------------------------------------------------------------|--------------------|
+| `survived`  | 1 - survived, 0 - did not survive                              | Binary variable    |
+| `pclass`    | Passenger class (1 - upper, 2 - middle, 3 - lower)              | Ordinal variable   |
+| `sex`       | male, female                                                   | Categorical variable |
+| `age`       | Passenger's age                                                 | Continuous variable |
+| `sibsp`     | Number of siblings or spouses aboard                            | Discrete variable  |
+| `parch`     | Number of parents or children aboard                            | Discrete variable  |
+| `fare`      | Ticket fare                                                     | Continuous variable |
+| `embarked`  | Port of embarkation (C - Cherbourg, Q - Queenstown, S - Southampton) | Categorical variable |
+| `class`     | Passenger class (First, Second, Third)                          | Categorical variable |
+| `who`       | 'man' - 18 years or older male, 'woman' - female, 'child' - under 18 years | Categorical variable |
+| `adult_male` | 1 - if passenger is 18 years or older and male, 0 - otherwise   | Binary variable    |
+| `deck`      | Ship deck where passenger's cabin was located                   | Categorical variable |
+| `embark_town` | Town where passengers embarked                                 | Categorical variable |
+| `alive`     | 'yes' - survived, 'no' - did not survive                       | Binary variable    |
+| `alone`     | 1 - if passenger was travelling alone (no siblings/spouses/parents/children aboard), 0 - otherwise | Binary variable    |
 
 ## Exploratory Data Analysis
 
