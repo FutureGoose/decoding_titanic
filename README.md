@@ -1,4 +1,4 @@
-# Project Titanic: Predicting Survival 🚢⚓
+# Decoding Titanic: Predicting Survival 🚢⚓
 
 ## Table of Contents
 1. [Introduction](#Introduction)
@@ -19,7 +19,7 @@ This repository contains a comprehensive step-by-step guide to the classic machi
 
 <a name="Dataset"></a>
 ## 2. Dataset 📁
-The dataset we used is the Titanic dataset from the Kaggle competition. It contains demographics and passenger information from 891 of the 2224 passengers and crew on board the Titanic.
+The dataset we used is the Titanic dataset from the Kaggle competition. It contains demographics and passenger information from 891 of the 2224 passengers and crew on board the Titanic. You can access this dataset from the [Kaggle Titanic competition page](https://www.kaggle.com/competitions/titanic/data) or import it directly via seaborn.
 
 <a name="Exploratory-Data-Analysis"></a>
 ## 3. Exploratory Data Analysis 📊
@@ -58,7 +58,7 @@ Through model interpretation, we gained a deeper understanding of the factors in
 Our detailed EDA revealed fascinating aspects of the Titanic disaster. With careful feature engineering and model selection, we achieved an accuracy of 83.5%—a significant improvement over the baseline. The process shed light on the human stories behind the data, enhancing our understanding of survival factors during the Titanic disaster.
 
 ## Getting Started 🏁
-Please refer to the included Jupyter Notebook (`titanic.ipynb`) for the full code, commentary, and results. The original data is in the `data` directory. 
+Please refer to the included Jupyter Notebook (`decoding_titanic_github_230711_ver3.ipynb`) for the full code, commentary, and results. The original data can be directly imported through seaborn or downloaded from the [Kaggle Titanic competition page](https://www.kaggle.com/competitions/titanic/data).
 
 ### Prerequisites 📋
 To run this project, you'll need the following:
