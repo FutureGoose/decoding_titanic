@@ -1,5 +1,4 @@
 # Decoding Titanic: A Data Science Exploration 🚢🔍
----
 
 ## Overview
 
