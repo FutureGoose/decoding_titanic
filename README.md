@@ -74,7 +74,11 @@ To run this project, you'll need the following:
 Enjoy exploring, and don't hesitate to reach out if you have any questions or suggestions!
 
 ## Contributors ✨
-This project was conducted as part of a collaboration between [Your name here] and [other collaborator's names here]. All members contributed equally to the project.
+I'd like to extend my heartfelt gratitude towards a few special individuals who have immensely contributed to my journey. I thank Duck-m-a-n for being a continuous source of inspiration. His incredible work ethic and growth mindset have not only motivated me, but have also shown me the possibilities of what relentless learning and persistence can achieve.
+
+I also owe a huge thanks to wagonpusher for being a pillar of mental support. His patience and willingness to listen to my trials and errors throughout the course of this project have made the process much smoother. Besides being an excellent listener, he's also a fantastic engineer, whose insightful feedback has been crucial to my learning.
+
+Thank you both for your invaluable contribution to my growth and this project.
 
 ## License 📄
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
