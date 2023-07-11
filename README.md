@@ -84,4 +84,4 @@ Thank you both for your invaluable contribution to my growth and this project.
 This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/FutureGoose/decoding_titanic/blob/main/LICENSE) file for details.
 
 ## Acknowledgments 🙏
-We want to thank the Kaggle community for making the Titanic dataset readily accessible and fostering a space for learning and growth.
+I want to thank the Kaggle community for making the Titanic dataset readily accessible and fostering a space for learning and growth.
