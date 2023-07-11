@@ -20,8 +20,6 @@ The goal of this project is to predict whether a passenger on the Titanic would 
 
 ## Data Description
 
-# Dataset Introduction
-
 The Titanic dataset, imported from Seaborn, provides comprehensive details about the passengers who were aboard the ill-fated ship. This data, originally sourced from Kaggle, serves as a rich resource to understand various factors that might have influenced passenger survival. The dataset contains the following variables:
 
 | Variable    | Description                                                     | Variable Type      |
