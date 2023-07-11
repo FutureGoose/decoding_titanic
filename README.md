@@ -58,6 +58,12 @@ We evaluated our model's performance using metrics like accuracy, precision, rec
 
 ## Conclusion
 
-Our analysis revealed some interesting insights about survival on the Titanic and allowed us to build a predictive model with satisfactory performance. For a detailed discussion of our findings and the limitations of our analysis, please refer to the [Conclusion](https://github.com/username/repo/blob/main/Conclusion.md) section.
+Our analysis revealed some interesting insights about survival on the Titanic and allowed us to build a predictive model with satisfactory performance. 
+
+**Key Takeaways:**
+- Our detailed EDA revealed fascinating aspects of the Titanic disaster, such as the survival bias towards women, children, and first-class passengers.
+- With careful feature engineering and model selection, we achieved an accuracy of 83.5%—a significant improvement over the baseline.
+- The process shed light on the human stories behind the data, enhancing our understanding of survival factors during the Titanic disaster.
+- The project underscored the power of machine learning models in deriving insights and making informed predictions in various contexts.
 
 ---
