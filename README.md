@@ -23,7 +23,7 @@ The dataset I used is the Titanic dataset from the Kaggle competition. It contai
 
 <a name="Exploratory-Data-Analysis"></a>
 ## 3. Exploratory Data Analysis 📊
-Exploratory data analysis helped us understand the data structure, find patterns, spot anomalies, and test hypotheses with the help of summary statistics and graphical representations.
+Exploratory data analysis helped me understand the data structure, find patterns, spot anomalies, and test hypotheses with the help of summary statistics and graphical representations.
 
 <a name="Data-Cleaning-&-Feature-Engineering"></a>
 ## 4. Data Cleaning & Feature Engineering ⚙️
