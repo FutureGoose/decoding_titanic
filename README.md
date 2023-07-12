@@ -15,11 +15,11 @@
 
 <a name="Introduction"></a>
 ## 1. Introduction 🌟
-This repository contains a comprehensive step-by-step guide to the classic machine learning project, predicting the survivors of the Titanic disaster. The project includes everything from data cleaning, exploratory data analysis (EDA), model selection, hyperparameter tuning, to model interpretation. Here, we will present the code, the reasons behind the choices we made, and the final results.
+This repository contains a comprehensive step-by-step guide to the classic machine learning project, predicting the survivors of the Titanic disaster. The project includes everything from data cleaning, exploratory data analysis (EDA), model selection, hyperparameter tuning, to model interpretation. Here, I will present the code, the reasons behind the choices I made, and the final results.
 
 <a name="Dataset"></a>
 ## 2. Dataset 📁
-The dataset we used is the Titanic dataset from the Kaggle competition. It contains demographics and passenger information from 891 of the 2224 passengers and crew on board the Titanic. You can access this dataset from the [Kaggle Titanic competition page](https://www.kaggle.com/competitions/titanic/data) or import it directly via seaborn.
+The dataset I used is the Titanic dataset from the Kaggle competition. It contains demographics and passenger information from 891 of the 2224 passengers and crew on board the Titanic. You can access this dataset from the [Kaggle Titanic competition page](https://www.kaggle.com/competitions/titanic/data) or import it directly via seaborn.
 
 <a name="Exploratory-Data-Analysis"></a>
 ## 3. Exploratory Data Analysis 📊
@@ -27,7 +27,7 @@ Exploratory data analysis helped us understand the data structure, find patterns
 
 <a name="Data-Cleaning-&-Feature-Engineering"></a>
 ## 4. Data Cleaning & Feature Engineering ⚙️
-We carefully dealt with missing values and outliers to ensure the data's integrity and usability. Several features were engineered to best represent the existing information and create a better perspective of passengers' survival possibilities.
+I carefully dealt with missing values and outliers to ensure the data's integrity and usability. Several features were engineered to best represent the existing information and create a better perspective of passengers' survival possibilities.
 
 <a name="Data-Split"></a>
 ## 5. Data Split: Train, Validation, Test 🧪
@@ -55,7 +55,7 @@ Through model interpretation, we gained a deeper understanding of the factors in
 
 <a name="Conclusion"></a>
 ## 11. Conclusion 🎉
-Our detailed EDA revealed fascinating aspects of the Titanic disaster. With careful feature engineering and model selection, we achieved an accuracy of 83.5%—a significant improvement over the baseline. The process shed light on the human stories behind the data, enhancing our understanding of survival factors during the Titanic disaster.
+Our detailed EDA revealed fascinating aspects of the Titanic disaster. With careful feature engineering and model selection, I achieved an accuracy of 83.5%—a significant improvement over the baseline. The process shed light on the human stories behind the data, enhancing our understanding of survival factors during the Titanic disaster.
 
 ## Getting Started 🏁
 Please refer to the included Jupyter Notebook (`decoding_titanic_github_230711_ver3.ipynb`) for the full code, commentary, and results. The original data can be directly imported through seaborn or downloaded from the [Kaggle Titanic competition page](https://www.kaggle.com/competitions/titanic/data).
