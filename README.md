@@ -58,7 +58,7 @@ Through model interpretation, we gained a deeper understanding of the factors in
 Our detailed EDA revealed fascinating aspects of the Titanic disaster. With careful feature engineering and model selection, I achieved an accuracy of 83.5%—a significant improvement over the baseline. The process shed light on the human stories behind the data, enhancing our understanding of survival factors during the Titanic disaster.
 
 ## Getting Started 🏁
-Please refer to the included Jupyter Notebook (`decoding_titanic_github_230711_ver3.ipynb`) for the full code, commentary, and results. The original data can be directly imported through seaborn or downloaded from the [Kaggle Titanic competition page](https://www.kaggle.com/competitions/titanic/data).
+Please refer to the included Jupyter Notebook (`decoding_titanic_github_final.ipynb`) for the full code, commentary, and results. The original data can be directly imported through seaborn or downloaded from the [Kaggle Titanic competition page](https://www.kaggle.com/competitions/titanic/data).
 
 ### Prerequisites 📋
 To run this project, you'll need the following:
