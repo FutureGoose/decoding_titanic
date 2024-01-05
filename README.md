@@ -1,5 +1,7 @@
 # Decoding Titanic: Predicting Survival 🚢⚓
 
+**Note: For the best viewing experience of the Jupyter Notebook, please use this [nbviewer link](https://nbviewer.org/github/FutureGoose/decoding_titanic/blob/main/decoding_titanic_github_final.ipynb).**
+
 ## Table of Contents
 1. [Introduction](#Introduction)
 2. [Dataset](#Dataset)
@@ -59,6 +61,8 @@ Our detailed EDA revealed fascinating aspects of the Titanic disaster. With care
 
 ## Getting Started 🏁
 Please refer to the included Jupyter Notebook (`decoding_titanic_github_final.ipynb`) for the full code, commentary, and results. The original data can be directly imported through seaborn or downloaded from the [Kaggle Titanic competition page](https://www.kaggle.com/competitions/titanic/data).
+
+**Note: For the best viewing experience of the Jupyter Notebook, please use this [nbviewer link](https://nbviewer.org/github/FutureGoose/decoding_titanic/blob/main/decoding_titanic_github_final.ipynb).**
 
 ### Prerequisites 📋
 To run this project, you'll need the following:
