@@ -1,7 +1,5 @@
 # Decoding Titanic: Predicting Survival 🚢⚓
 
-**Note: For the best viewing experience of the Jupyter Notebook, please use this [nbviewer link](https://nbviewer.org/github/FutureGoose/decoding_titanic/blob/main/decoding_titanic_github_final.ipynb).**
-
 ## Table of Contents
 1. [Introduction](#Introduction)
 2. [Dataset](#Dataset)
